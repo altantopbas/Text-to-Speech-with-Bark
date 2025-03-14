@@ -1,0 +1,7 @@
+accelerate==1.2.0
+transformers==4.47.0
+conda install pytorch==2.5.1 torchvision==0.20.1 torchaudio==2.5.1 pytorch-cuda=12.1 -c pytorch -c nvidia
+nltk==3.9.1
+soundfile==0.13.1
+bark==0.1.5
+streamlit==1.41.0
