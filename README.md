@@ -4,7 +4,7 @@ This project is a simple and interactive Text-to-Speech (TTS) application powere
 
 ## 🎯 Features
 - ✅ High-quality text-to-speech generation using Bark
-
+ 
 - ✅ Streamlit-based web interface
 
 - ✅ Multilingual support (depends on Bark’s capabilities)
